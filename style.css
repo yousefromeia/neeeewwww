@@ -1,0 +1,17 @@
+body{
+    background-image: url(./img/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+a:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease;
+    color: brown;
+    background-color: blue;    
+}
+a{
+    margin: 5px;
+    padding: 5px;
+}
